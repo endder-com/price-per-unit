@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/price-per-unit/static/css/main.7486c266.css",
+    "main.js": "/price-per-unit/static/js/main.d84798aa.js",
+    "static/js/787.e6790b8f.chunk.js": "/price-per-unit/static/js/787.e6790b8f.chunk.js",
+    "index.html": "/price-per-unit/index.html",
+    "main.7486c266.css.map": "/price-per-unit/static/css/main.7486c266.css.map",
+    "main.d84798aa.js.map": "/price-per-unit/static/js/main.d84798aa.js.map",
+    "787.e6790b8f.chunk.js.map": "/price-per-unit/static/js/787.e6790b8f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7486c266.css",
+    "static/js/main.d84798aa.js"
+  ]
+}
